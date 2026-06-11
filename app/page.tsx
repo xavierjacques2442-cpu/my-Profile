@@ -134,7 +134,7 @@ export default function Home() {
               <div className="p-5">
                 <h3 className="text-xl font-bold text-green-400">Influence Person</h3>
                 <p className="text-gray-300 mt-2">
-                  Next.js project about influential people and their stories.
+                  Next.js project about influential people and their stories, I choose someone from a anime series, wrote why I choose him, all his facts and achievements in a next.js project.
                 </p>
                 <div className="flex gap-3 mt-4">
                   <a href="https://my-app-jade-ten-31.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
@@ -149,7 +149,7 @@ export default function Home() {
               <div className="p-5">
                 <h3 className="text-xl font-bold text-green-400">Weather App</h3>
                 <p className="text-gray-300 mt-2">
-                  Weather application built with API integration.
+                  Weather application built with API integration, was a challenging as mine was switch with other person who I did instead, they did mine instead and it came out just like her designed.
                 </p>
                 <div className="flex gap-3 mt-4">
                   <a href="https://weather-aplication-theta.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
@@ -159,16 +159,31 @@ export default function Home() {
             </div>
 
             {/* Project 3 */}
-            <div className="md:col-span-2 bg-gray-900 border border-green-500 rounded-lg overflow-hidden">
+            <div className=" bg-gray-900 border border-green-500 rounded-lg overflow-hidden">
               <img src="/Images/image2.png" alt="project3" className="w-full h-60 object-cover" />
               <div className="p-5">
-                <h3 className="text-xl font-bold text-green-400">Pokemon API</h3>
+                <h3 className="text-xl font-bold text-green-400">Pokemon API V.2 </h3>
                 <p className="text-gray-300 mt-2">
-                  First API project using fetch, search, and favorites system.
+                  First API project using fetch, search, and favorites system, later on we upgrade it designed, it's function where it don't show you a pokemon until you search for it or press randomize button.
                 </p>
                 <div className="flex gap-3 mt-4">
-                  <a href="https://pokemonv2-neon.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
-                  <a href="https://github.com/xavierjacques2442-cpu/pokemon" target="_blank" className="border border-green-500 px-3 py-1 rounded text-green-500">GitHub</a>
+                  <a href="https://pokemon-app-self-iota.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
+                  <a href="https://github.com/xavierjacques2442-cpu/pokemon-app" target="_blank" className="border border-green-500 px-3 py-1 rounded text-green-500">GitHub</a>
+                </div>
+              </div>
+            </div>
+
+             {/* Project 4 */}
+            <div className=" bg-gray-900 border border-green-500 rounded-lg overflow-hidden">
+              <img src="/Images/image6.png" alt="project3" className="w-full h-60 object-cover" />
+              <div className="p-5">
+                <h3 className="text-xl font-bold text-green-400">Venn Group Project</h3>
+                <p className="text-gray-300 mt-2">
+                  This was our group project that I help to with to build Called Venn a planning website for meetings, or meet ups, was our final project of the school, it went thought the internship will still working on it.
+                </p>
+                <div className="flex gap-3 mt-4">
+                  <a href="https://venn-iota.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
+                  <a href="https://github.com/duartemjoseph-spec/vennfrontend.git" target="_blank" className="border border-green-500 px-3 py-1 rounded text-green-500">GitHub</a>
                 </div>
               </div>
             </div>
