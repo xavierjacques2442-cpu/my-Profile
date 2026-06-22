@@ -26,16 +26,17 @@ export default function Home() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center px-6">
 
           <div>
-            <p className="text-gray-200 mb-2">Xavier Jacques</p>
+            <p className="text-3xl text-gray-200 mb-2">Xavier Jacques</p>
 
             <h1 className="text-5xl font-bold text-green-600 mb-4">
               Frontend Developer
             </h1>
 
             <p className="text-gray-300 max-w-lg">
-              As a new Junior Frontend Developer, I’m excited to begin my journey in the tech industry.
-              I’m eager to gain real-world experience, explore different areas of development,
-              and continue improving my skills through hands-on projects and collaboration.
+   As a new Junior Frontend Developer, I’m passionate about building modern, responsive, and user-friendly web applications.
+  I’m excited to begin my journey in the tech industry and grow my skills through real-world projects and hands-on experience.
+  I enjoy exploring frontend development, improving my understanding of UI/UX design, and learning how to turn ideas into clean, functional interfaces.
+  I’m also motivated to collaborate with others and continuously improve as a developer.
             </p>
           </div>
 
@@ -43,7 +44,7 @@ export default function Home() {
             <img
               src="/Images/image4.png"
               alt="profile"
-              className="rounded-2xl bg-green-500 p-2 w-[320px]"
+              className="rounded-2xl bg-green-500 p-2 w-[410px]"
             />
           </div>
 
@@ -58,7 +59,7 @@ export default function Home() {
             <img
               src="/Images/image5.png"
               alt="about me"
-              className="rounded-2xl bg-green-500 p-2 w-[320px]"
+              className="rounded-2xl bg-green-500 p-2 w-[410px]"
             />
           </div>
 
@@ -68,9 +69,11 @@ export default function Home() {
             </h2>
 
             <p className="text-gray-300 mb-6 max-w-lg">
-              Hi, I’m a software developer passionate about building modern web applications
-              with JavaScript, React, Node.js, and databases. I enjoy learning new technologies
-              and turning ideas into real projects.
+   I’m a Frontend developer focused on building modern, responsive web applications and APIs.
+   My experience includes JavaScript, TypeScript, React, Next.js, Node.js, and backend development using C# and ASP.NET Core.
+   I work with SQL databases and enjoy designing scalable, user-friendly systems.
+  I’m also comfortable using tools like Azure, GitHub, Postman, Swagger, and Figma to support development from design to deployment.
+  I’m continuously learning new technologies and improving my ability to turn ideas into real-world applications.
             </p>
 
             <div className="space-y-6">
@@ -149,7 +152,7 @@ export default function Home() {
               <div className="p-5">
                 <h3 className="text-xl font-bold text-green-400">Weather App</h3>
                 <p className="text-gray-300 mt-2">
-                  Weather application built with API integration, was a challenging as mine was switch with other person who I did instead, they did mine instead and it came out just like her designed.
+                  Weather application built with API integration, was a challenging as mine was switch with other person who I did instead, they did mine instead and it came out just like her designed, use a api key which I do not have because it will cost money but it works fine.
                 </p>
                 <div className="flex gap-3 mt-4">
                   <a href="https://weather-aplication-theta.vercel.app/" target="_blank" className="bg-green-500 text-black px-3 py-1 rounded">Live</a>
